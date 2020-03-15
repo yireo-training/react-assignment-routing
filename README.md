@@ -2,7 +2,7 @@
 This assignment teaches Yireo students to create a route within the React app.
 
 ## Assignment
-Add 
+Add a new route leading to a new component to the existing app.
 
 ## Steps
 - Create a simple component `RouteAssignment` with some text.
